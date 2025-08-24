@@ -4726,7 +4726,7 @@ if (!text) return m.reply("𝗣𝗿𝗼𝘃𝗶𝗱𝗲 𝗮 𝘃𝗮𝗹𝗶�
                             showAdAttribution: true,
                             title: 'PRINCESS RUBY',
                             body: 'https://github.com/TeddyDommie/Princess-Ruby',
-                            thumbnailUrl: 'https://files.catbox.moe/duv8ac.jpg',
+                            thumbnailUrl: 'https://files.catbox.moe/5l8xct.jpg',
                             sourceUrl: 'https://github.com/TeddyDommie/Princess-Ruby',
                             mediaType: 1,
                             renderLargerThumbnail: true
