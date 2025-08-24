@@ -1,25 +1,25 @@
-# 𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧
+# 🌸 PRINCESS-RUBY
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HOLLA+THIS+IS+RAVEN-BOT;MULTI+DEVICE+WHATSAPP+BOT;MADE+TO+HELP+WHATSAPP+USERS;STAR+AND+FORK+THE+REPO" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FF1493&center=true&width=910&height=100&lines=HELLO+THIS+IS+PRINCESS-RUBY;MULTI+DEVICE+WHATSAPP+BOT;MADE+TO+HELP+WHATSAPP+USERS;STAR+AND+FORK+THE+REPO" alt="Typing SVG" />
   </a>
-</p>
+</div>
   
 <p align="center">
 
-[![Nick Hunter](https://github.com/HunterNick2.png?lenght=50width=50)](https://github.com/HunterNick2)
+[![Teddy Dommie](https://github.com/TeddyDommie.png?lenght=50width=50)](https://github.com/TeddyDommie)
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=RAVEN+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff69b4&center=true&vCenter=true&multiline=false&lines=PRINCESS-RUBY+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝗡𝗶𝗰𝗸_𝗛𝘂𝗻𝘁𝗲𝗿-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Teddy_Dommie-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/HunterNick2?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/HunterNick2?label=Followers&style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HunterNick2/RAVEN-BOT?&style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/HunterNick2/RAVEN-BOT?style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HunterNick2/RAVEN-BOT?label=Watching&style=social"></a>
+<a href="https://github.com/TeddyDommie?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/TeddyDommie?label=Followers&style=social"></a>
+<a href="https://github.com/TeddyDommie/Princess-Ruby/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TeddyDommie/Princess-Ruby?&style=social"></a>
+<a href="https://github.com/TeddyDommie/Princess-Ruby/network/members"><img title="Fork" src="https://img.shields.io/github/forks/TeddyDommie/Princess-Ruby?style=social"></a>
+<a href="https://github.com/TeddyDommie/Princess-Ruby/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TeddyDommie/Princess-Ruby?label=Watching&style=social"></a>
 </p>
  
 
@@ -27,60 +27,56 @@
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=254114660061&text=Hello+Raven+dev+i+need+your+Help+on..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=254798956113&text=Hello+Princess-Ruby+Dev+i+need+your+Help+on..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
+---
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/Baileys)***
 
+---
 
-## DISCLAIMER
-- Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting.
+## ⚠️ DISCLAIMER
+- Modifying the bot structure is at your own risk. No support will be offered in case of errors resulting.  
+- Do not delete the credits given. You may add your name beside the original developer.  
 
-- Do not delete the credits given,  you can add yourself instead.
+---
 
-## FEATURES
-This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of Openai.
+## ✨ FEATURES
+Princess-Ruby is a **highly customizable simple WhatsApp bot** with:  
+- ✅ Group Management (anti-delete, anti-call, welcome/goodbye)  
+- ✅ Media Commands (YouTube, TikTok, Instagram, Facebook)  
+- ✅ Fun Commands (games, memes, quotes)  
+- ✅ ChatGPT/OpenAI powered responses  
+- ✅ Utility Tools (stickers, poll, inspect, auto-bio)  
 
-Our AI features use random APIs to run, so sometimes they may be down.
+---
 
- SET-UP
+## ⚙️ SET-UP
 
-## ` Fork this repo`
-<p align="centre">
-<a href="https://github.com/HunterNick2/RAVEN-BOT/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK RAVEN-BOT" width="160"></a>
-<p/>
-
-  
-## ` Pair onrender`
-<p align="centre">
-<a href="https://pairing-raven.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
-<p/>
-            
-
-###  ` Deploy to Heroku`
+### ` Fork this repo`
 <p align="center">
-     <a href="https://verify-me-umber.vercel.app/">
+<a href="https://github.com/TeddyDommie/Princess-Ruby/fork"><img src="https://img.shields.io/badge/Fork%20Repo-purple?style=for-the-badge&logo=github" alt="FORK PRINCESS-RUBY"></a>
+</p>
+
+### ` Pair on Render`
+<p align="center">
+<a href="https://pairing-raven.onrender.com"><img height= "37" title="Session" src="https://img.shields.io/badge/Generate%20Session-green?style=for-the-badge&logo=render"></a>
+</p>
+
+### ` Deploy to Heroku`
+<p align="center">
+     <a href="https://heroku.com/deploy?template=https://github.com/TeddyDommie/Princess-Ruby">
        <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
      </a>
- </p>
- 
+</p>
 
-    
+- Fill in the required environment variables in Heroku or your preferred hosting provider for the bot to function.  
 
-- Fill in the required variables into your hosting site for bot to work.
- </h2>
-     
+---
 
-    
- 
+## 📜 License
 
+[MIT License](https://github.com/TeddyDommie/Princess-Ruby/blob/main/LICENSE)  
 
-
-
-
-## License
-
-[MIT License](https://github.com/HunterNick2/RAVEN-BOT/blob/main/LICENSE)
-
-Copyright (c) 2025 RAVEN-BOT 
-
+Copyright (c) 2025 **Princess-Ruby**
