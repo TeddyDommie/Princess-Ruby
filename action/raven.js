@@ -250,7 +250,7 @@ contextInfo: {
           externalAdReply: {
           title: notificationText,
           body: `DELETED MEDIA: ${deletedByFormatted}`,
-          thumbnailUrl: "https://files.catbox.moe/7f98vp.jpg",
+          thumbnailUrl: "https://files.catbox.moe/hbo2oj.jpg",
           sourceUrl: '',
           mediaType: 1,
           renderLargerThumbnail: false
@@ -271,7 +271,7 @@ contextInfo: {
           externalAdReply: {
           title: notificationText,
           body: `DELETED BY: ${deletedByFormatted}`,
-          thumbnailUrl: "https://files.catbox.moe/7f98vp.jpg",
+          thumbnailUrl: "https://files.catbox.moe/hbo2oj.jpg",
           sourceUrl: '',
           mediaType: 1,
           renderLargerThumbnail: false
@@ -288,7 +288,7 @@ contextInfo: {
           externalAdReply: {
           title: notificationText,
           body: `DELETED BY: ${deletedByFormatted}`,
-          thumbnailUrl: "https://files.catbox.moe/7f98vp.jpg",
+          thumbnailUrl: "https://files.catbox.moe/hbo2oj.jpg",
           sourceUrl: '',
           mediaType: 1,
           renderLargerThumbnail: false
@@ -1401,7 +1401,7 @@ await client.sendMessage(from, {
 //========================================================================================================================//		      
 		case "credits": 
     client.sendMessage(m.chat, { 
-        image: { url: 'https://files.catbox.moe/duv8ac.jpg' }, 
+        image: { url: 'https://files.catbox.moe/qcqbx9.jpg' }, 
         caption: `We express sincere gratitude and acknowledgement to the following:\n
 - Nicky
 - Mrs Mzazi
@@ -2577,7 +2577,7 @@ break;
       return m.reply("𝗤𝘂𝗼𝘁𝗲 𝗮𝗻 𝗶𝗺𝗮𝗴𝗲 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗶𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻𝘀 𝗲𝗵!");
     }
     if (!text) {
-      return m.reply("𝗣𝗿𝗼𝘃𝗶𝗱𝗲 𝘀𝗼𝗺𝗲 𝗶𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻𝘀 𝗲𝗵! 𝗧𝗵𝗶𝘀 𝗶𝘀 𝗥𝗔𝗩𝗘𝗡 𝗔𝗶, 𝘂𝘀𝗶𝗻𝗴 𝗴𝗲𝗺𝗶𝗻𝗶-𝗽𝗿𝗼-𝘃𝗶𝘀𝗶𝗼𝗻 𝘁𝗼 𝗮𝗻𝗮𝗹𝘆𝘀𝗲 𝗶𝗺𝗮𝗴𝗲𝘀.");
+      return m.reply("𝗣𝗿𝗼𝘃𝗶𝗱𝗲 𝘀𝗼𝗺𝗲 𝗶𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻𝘀 𝗲𝗵! 𝗧𝗵𝗶𝘀 𝗶𝘀 𝗣𝗿𝗶𝗻𝗰𝗲𝘀𝘀 𝗥𝘂𝗯𝘆 𝗔𝗶, 𝘂𝘀𝗶𝗻𝗴 𝗴𝗲𝗺𝗶𝗻𝗶-𝗽𝗿𝗼-𝘃𝗶𝘀𝗶𝗼𝗻 𝘁𝗼 𝗮𝗻𝗮𝗹𝘆𝘀𝗲 𝗶𝗺𝗮𝗴𝗲𝘀.");
     }
     if (!/image|pdf/.test(mime)) {
       return m.reply("𝗛𝘂𝗵 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗻𝗼𝘁 𝗮𝗻 𝗶𝗺𝗮𝗴𝗲! 𝗣𝗹𝗲𝗮𝘀𝗲 𝗧𝗮𝗴 𝗮𝗻 𝗶𝗺𝗮𝗴𝗲 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗶𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻𝘀 𝗲𝗵 !");
@@ -2628,7 +2628,7 @@ if (!/image|pdf/.test(mime)) return m.reply("That is not an image, try again whi
 
                     let fdr = await client.downloadAndSaveMediaMessage(m.quoted)
                     let fta = await uploadToCatbox(fdr)
-                    m.reply(`𝗔 𝗠𝗼𝗺𝗲𝗻𝘁, 𝗥𝗮𝘃𝗲𝗻[𝗥𝗔𝗩𝗘𝗡-𝗔𝗜] 𝗶𝘀 𝗮𝗻𝗮𝗹𝘆𝘇𝗶𝗻𝗴 𝘁𝗵𝗲 𝗰𝗼𝗻𝘁𝗲𝗻𝘁𝘀 𝗼𝗳 𝘁𝗵𝗲 ${mime.includes("pdf") ? "𝗣𝗗𝗙" : "𝗜𝗺𝗮𝗴𝗲"} . . .`);
+                    m.reply(`𝗔 𝗠𝗼𝗺𝗲𝗻𝘁, 𝗥𝗮𝘃𝗲𝗻[𝗣𝗿𝗶𝗻𝗰𝗲𝘀𝘀 𝗥𝘂𝗯𝘆-𝗔𝗜] 𝗶𝘀 𝗮𝗻𝗮𝗹𝘆𝘇𝗶𝗻𝗴 𝘁𝗵𝗲 𝗰𝗼𝗻𝘁𝗲𝗻𝘁𝘀 𝗼𝗳 𝘁𝗵𝗲 ${mime.includes("pdf") ? "𝗣𝗗𝗙" : "𝗜𝗺𝗮𝗴𝗲"} . . .`);
 
 const data = await fetchJson(`https://api.dreaded.site/api/gemini-vision?url=${fta}&instruction=${text}`);
 let res = data.result
@@ -2645,7 +2645,7 @@ m.reply("I am unable to analyze images at the moment\n" + e)
 //========================================================================================================================//		      
 	      case "vision": {
 		      if (!msgR || !text) {
-    m.reply("𝗤𝘂𝗼𝘁𝗲 𝗮𝗻 𝗶𝗺𝗮𝗴𝗲 𝗮𝗻𝗱 𝗴𝗶𝘃𝗲 𝘀𝗼𝗺𝗲 𝗶𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻𝘀 𝗲𝗵. 𝗜'𝗺 𝗥𝗔𝗩𝗘𝗡 𝗔𝗶, 𝗶 𝘂𝘀𝗲 𝗕𝗮𝗿𝗱 𝘁𝗼 𝗮𝗻𝗮𝗹𝘆𝘇𝗲 𝗶𝗺𝗮𝗴𝗲𝘀.");
+    m.reply("𝗤𝘂𝗼𝘁𝗲 𝗮𝗻 𝗶𝗺𝗮𝗴𝗲 𝗮𝗻𝗱 𝗴𝗶𝘃𝗲 𝘀𝗼𝗺𝗲 𝗶𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻𝘀 𝗲𝗵. 𝗜'𝗺 𝗣𝗿𝗶𝗻𝗰𝗲𝘀𝘀 𝗥𝘂𝗯𝘆 𝗔𝗶, 𝗶 𝘂𝘀𝗲 𝗕𝗮𝗿𝗱 𝘁𝗼 𝗮𝗻𝗮𝗹𝘆𝘇𝗲 𝗶𝗺𝗮𝗴𝗲𝘀.");
     return;
   }
   ;
@@ -2856,7 +2856,7 @@ const imageurl = `https://some-random-api.com/canvas/misc/tweet?displayname=${en
 
 
 
-await client.sendMessage(m.chat, { image: { url: imageurl}, caption: `𝗖𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗱 𝗯𝘆 𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧`}, { quoted: m}) 
+await client.sendMessage(m.chat, { image: { url: imageurl}, caption: `𝗖𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗱 𝗯𝘆 𝗣𝗥𝗜𝗡𝗖𝗘𝗦𝗦 𝗥𝗨𝗕𝗬`}, { quoted: m}) 
 
 	}
 	 break;
@@ -3101,9 +3101,9 @@ m.reply("An error occured.")
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "𝗛𝗶 𝗛𝘂𝗺𝗮𝗻👋, 𝗜 𝗮𝗺 𝗔𝗹𝗶𝘃𝗲 𝗻𝗼𝘄",
-          body: "𝗥𝗔𝗩𝗘𝗡 𝗕𝗢𝗧",
-          thumbnailUrl: "https://files.catbox.moe/7f98vp.jpg",
+          title: "𝗛𝗶 𝗬𝗼𝗵, 𝗜 𝗮𝗺 𝗔𝗹𝗶𝘃𝗲 𝗻𝗼𝘄",
+          body: "𝗣𝗥𝗜𝗡𝗖𝗘𝗦𝗦 𝗥𝗨𝗕𝗬",
+          thumbnailUrl: "https://files.catbox.moe/hbo2oj.jpg",
           sourceUrl: '',
           mediaType: 1,
           renderLargerThumbnail: true
@@ -3117,7 +3117,7 @@ m.reply("An error occured.")
 	case "removebg": {
 try {
 
-const cap = "𝗘𝗱𝗶𝘁𝗲𝗱 𝗯𝘆 𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧";
+const cap = "𝗘𝗱𝗶𝘁𝗲𝗱 𝗯𝘆 𝗣𝗥𝗜𝗡𝗖𝗘𝗦𝗦 𝗥𝗨𝗕𝗬";
 if (!m.quoted) return m.reply("Send the image then tag it with the command.");
 if (!/image/.test(mime)) return m.reply("That is not an image, try again while quoting an actual image.");             
 
@@ -3463,7 +3463,7 @@ if (!text) throw 'Provide a valid Bot Baileys Function to evaluate'
     if (!isBotAdmin) throw botAdmin;
     if (!isAdmin) throw admin;
     if (!m.isGroup) throw group;		      
-if (!q || isNaN(q)) return m.reply("provide number to be added in this format.\n\nadd 254114660061");
+if (!q || isNaN(q)) return m.reply("provide number to be added in this format.\n\nadd 254798956113");
 try {
         const userToAdd = `${q}@s.whatsapp.net`;  // Format the phone number
         // Add the user to the group
@@ -3480,7 +3480,7 @@ break;
 //========================================================================================================================//		      
   case "system": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://files.catbox.moe/duv8ac.jpg' }, caption:`*𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: 𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧*\n\n*𝐒𝐏𝐄𝐄𝐃: ${Rspeed.toFixed(4)} 𝐌𝐒*\n\n*𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}*\n\n*𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: 𝗛𝗲𝗿𝗼𝗸𝘂*\n\n*𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: 𝗥𝗮𝘃𝗲𝗻*\n\n*𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys*\n\n𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑: 𝗡𝗶𝗰𝗸༆`}); 
+              client.sendMessage(m.chat, { image: { url: 'https://files.catbox.moe/duv8ac.jpg' }, caption:`*𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: 𝗣𝗥𝗜𝗡𝗖𝗘𝗦𝗦 𝗥𝗨𝗕𝗬*\n\n*𝐒𝐏𝐄𝐄𝐃: ${Rspeed.toFixed(4)} 𝐌𝐒*\n\n*𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}*\n\n*𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: 𝗛𝗲𝗿𝗼𝗸𝘂*\n\n*𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: 𝗠𝗭𝗔𝗭𝗜*\n\n*𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys*\n\n𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑: 𝗠𝗭𝗔𝗭𝗜-𝗧𝗘𝗖𝗛`}); 
  break;
 
 //========================================================================================================================//		      
@@ -3726,7 +3726,7 @@ m.reply("𝗣𝗲𝗻𝗱𝗶𝗻𝗴 𝗣𝗮𝗿𝘁𝗶𝗰𝗶𝗽𝗮𝗻�
      });  
      let baseUR = "/apps/" + appname;  
      let h9 = await heroku.get(baseUR + '/config-vars');  
-     let stoy = '*𝗕𝗲𝗹𝗼𝘄 𝗔𝗿𝗲 𝗛𝗲𝗿𝗼𝗸𝘂 𝗩𝗮𝗿𝗶𝗮𝗯𝗹𝗲𝘀 𝗙𝗼𝗿 𝗥𝗔𝗩𝗘𝗡-𝗠𝗗:*\n\n';  
+     let stoy = '*𝗕𝗲𝗹𝗼𝘄 𝗔𝗿𝗲 𝗛𝗲𝗿𝗼𝗸𝘂 𝗩𝗮𝗿𝗶𝗮𝗯𝗹𝗲𝘀 𝗙𝗼𝗿 𝗣𝗥𝗜𝗡𝗖𝗘𝗦𝗦 𝗥𝗨𝗕𝗬:*\n\n';  
      for ( vrt in h9) { // Added 'const' to declare 'vr' 
          stoy += vrt + '=' + h9[vrt] + '\n\n'; // Fixed variable name 'str' to 'sto' 
      }  
@@ -3754,7 +3754,7 @@ case "remove": case "kick": {
         let users = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : null;
         const parts = users.split('@')[0];
 
-if (users == "254114660061@s.whatsapp.net") return m.reply("It's an Owner Number! 😡");
+if (users == "254798956113@s.whatsapp.net") return m.reply("It's an Owner Number! 😡");
 
 	  if (users  == client.decodeJid(client.user.id)) throw 'I cannot remove Myself 😡';
 
@@ -3800,7 +3800,7 @@ await client.sendMessage(m.chat, {
       await client.sendMessage(m.chat, {
         video: { url: videoUrl },
         mimetype: "video/mp4",
-        caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧"
+        caption: "DOWNLOADED BY PRINCESS RUBBIE"
       },{ quoted: m });
     }
   } catch (error) {
@@ -3834,7 +3834,7 @@ try {
 
 	await client.sendMessage(m.chat, {
               video: { url: video_hd },
-              caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧"
+              caption: "DOWNLOADED BY PRINCESS RUBBIE"
             }, { quoted: m });
 
 	} catch (error) {
@@ -3875,7 +3875,7 @@ await client.sendMessage(m.chat, {
             m.chat,
             {
                 video: { url: fbvid },
-                caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧",
+                caption: "DOWNLOADED BY PRINCESS RUBBIE",
                 gifPlayback: false,
             },
             { quoted: m }
@@ -3918,7 +3918,7 @@ await client.sendMessage(m.chat, {
 
       await client.sendMessage(m.chat, {
         video: { url: videoUrl },
-        caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧",
+        caption: "DOWNLOADED BY PRINCESS RUBBIE",
         gifPlayback: false
       }, { quoted: m });
 
@@ -3953,7 +3953,7 @@ try {
         }
 
         const media = response.data.BK9;
-        const capp = `𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧`;
+        const capp = `DOWNLOADED BY PRINCESS RUBBIE`;
 
 if (media.length > 0) {
             const videoUrl = media.find(item => item.url.includes('.mp4'))?.url;
@@ -5081,7 +5081,7 @@ let ts = await convertTimestamp(info.creation);
 try {
         pp = await client.profilePictureUrl(chat, 'image');
       } catch {
-        pp = 'https://files.catbox.moe/duv8ac.jpg';
+        pp = 'https://files.catbox.moe/hbo2oj.jpg';
       }
 
 await client.sendMessage(m.chat, { image: { url: pp }, 
