@@ -4119,7 +4119,7 @@ break;
  case 'sc': case 'script': case 'repo':
 
     client.sendMessage(m.chat, { 
-        image: { url: `https://ibb.co/k29j6MYf` }, 
+        image: { url: `https://imgur.com/a/jPh8ouU` }, 
         caption: `Hey *${pushname}* 👋,\n\nThis is the official 🌸 *Princess-Ruby* GitHub repository.\n\n⭐ Feel free to fork the repo and give it a star to support development.\n\n🔗 Repository:\nhttps://github.com/TeddyDommie/Princess-Ruby\n\n🔐 To connect your WhatsApp, generate a session using this link:\nhttps://pairing-raven.onrender.com\n\nAfter getting your SESSION string, place it inside the environment variables along with the required config values, then deploy 🚀.\n\nEnjoy exploring and running Princess-Ruby 💎\n\n— Built with ❤️ by humans`
     }, { quoted: m });
 
