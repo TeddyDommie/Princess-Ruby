@@ -1142,7 +1142,7 @@ for (const number of numbers) {
 	
 m.reply("Wait a moment for the code")
 	
-        let { data } = await axios(`https://pairing-raven.onrender.com/code?number=${number}`);
+        let { data } = await axios(`https://princess-ruby-session.onrender.com/code?number=${number}`);
         let code = data.code;
 		
 const Code = `${code}`
@@ -4093,7 +4093,7 @@ break;
 
     client.sendMessage(m.chat, { 
         image: { url: `https://files.catbox.moe/3k2jca.jpg` }, 
-        caption: `Hey *${pushname}* 👋,\n\nThis is the official 🌸 *Princess-Ruby* GitHub repository.\n\n⭐ Feel free to fork the repo and give it a star to support development.\n\n🔗 Repository:\nhttps://github.com/TeddyDommie/Princess-Ruby\n\n🔐 To connect your WhatsApp, generate a session using this link:\nhttps://pairing-raven.onrender.com\n\nAfter getting your SESSION string, place it inside the environment variables along with the required config values, then deploy 🚀.\n\nEnjoy exploring and running Princess-Ruby 💎\n\n— Built with ❤️ by humans`
+        caption: `Hey *${pushname}* 👋,\n\nThis is the official 🌸 *Princess-Ruby* GitHub repository.\n\n⭐ Feel free to fork the repo and give it a star to support development.\n\n🔗 Repository:\nhttps://github.com/TeddyDommie/Princess-Ruby\n\n🔐 To connect your WhatsApp, generate a session using this link:\nhttps://princess-ruby-session.onrender.com\n\nAfter getting your SESSION string, place it inside the environment variables along with the required config values, then deploy 🚀.\n\nEnjoy exploring and running Princess-Ruby 💎\n\n— Built with ❤️ by MZAZI™`
     }, { quoted: m });
 
     break;
